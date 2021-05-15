@@ -1,10 +1,8 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: GitHub
+    url: "https://github.com/edbrannin"
+  - text: LinkedIn
+    url: "https://www.linkedin.com/in/edbrannin/"
   - text: Blog
     url: "/blog"
